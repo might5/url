@@ -89,12 +89,8 @@ http://10.9.9.1:4000/rtp/239.93.0.47:5140
 http://10.9.9.1:4000/rtp/239.93.0.166:5140
 #EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="四川",SCTV-6高清
 http://10.9.9.1:4000/rtp/239.93.1.144:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",SCTV-7高清
-http://10.9.9.1:4000/rtp239.93.0.219:5140
 #EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",SCTV-科教高清
 http://10.9.9.1:4000/rtp/239.93.42.44:5140
-#EXTINF:-1 tvg-id="7245" tvg-name="四川乡村高清" tvg-logo="" group-title="四川",四川乡村高清
-http://10.9.9.1:4000/rtp239.93.0.52:5140
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通
 http://10.9.9.1:4000/rtp/239.93.0.142:5140
 #EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",CDTV-2高清
@@ -113,14 +109,6 @@ http://10.9.9.1:4000/rtp/239.93.1.137:5140
 http://10.9.9.1:4000/rtp/239.93.0.130:5140
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",CETV-1高清
 http://10.9.9.1:4000/rtp/239.93.1.111:5140
-#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱四川高清专区
-http://10.9.9.1:4000/rtp/239.93.1.110:5140
-#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱旅游高清专区
-http://10.9.9.1:4000/rtp/239.93.42.70:5140
-#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱生活高清专区
-http://10.9.9.1:4000/rtp/239.93.42.71:5140
-#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱时尚高清专区
-http://10.9.9.1:4000/rtp/239.93.42.72:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K乐享超清专区
 http://10.9.9.1:4000/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",世界地理
@@ -129,5 +117,3 @@ http://10.9.9.1:4000/rtp/239.93.1.157:5140
 http://10.9.9.1:4000/rtp/239.93.42.6:5140
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
 http://10.9.9.1:4000/rtp/239.93.42.5:5140
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
-http://10.9.9.1:4000/rtp/239.93.42.7:5140
