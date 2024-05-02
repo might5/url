@@ -111,7 +111,7 @@ http://10.9.9.1:4000/rtp/239.93.0.130:5140
 http://10.9.9.1:4000/rtp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K乐享超清专区
 http://10.9.9.1:4000/rtp/239.93.0.43:5140
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",世界地理
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="CCTV",世界地理
 http://10.9.9.1:4000/rtp/239.93.1.157:5140
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
 http://10.9.9.1:4000/rtp/239.93.42.6:5140
