@@ -89,12 +89,8 @@ http://10.9.9.1:4000/rtp/239.93.0.47:5140
 http://10.9.9.1:4000/rtp/239.93.0.166:5140
 #EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="四川",SCTV-6高清
 http://10.9.9.1:4000/rtp/239.93.1.144:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",SCTV-7高清
-http://10.9.9.1:4000/rtp239.93.0.219:5140
 #EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",SCTV-科教高清
 http://10.9.9.1:4000/rtp/239.93.42.44:5140
-#EXTINF:-1 tvg-id="7245" tvg-name="四川乡村高清" tvg-logo="" group-title="四川",四川乡村高清
-http://10.9.9.1:4000/rtp239.93.0.52:5140
 #EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",CDTV-2高清
 http://10.9.9.1:4000/rtp/239.93.0.17:1239
 #EXTINF:-1 tvg-id="2066" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川",CDTV-3高清
